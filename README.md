@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chatbot React incorporável
 
 Chat flutuante responsivo em português. Estilos isolados com Shadow DOM, sem Tailwind ou biblioteca de ícones. O histórico fica somente na memória e desaparece ao recarregar. Sem API configurada, funciona como demonstração explícita, sem IA.
@@ -118,3 +119,6 @@ Se usar autenticação por cookie, siga a proteção CSRF da sua API.
 | timeoutMs | 30000 | Tempo limite de resposta, em milissegundos |
 
 Enter envia; Shift+Enter quebra linha; Escape fecha. Há identificação para leitores de tela e foco no campo ao abrir. É um painel não modal: o restante do site continua acessível pelo teclado. Há limite de 4.000 caracteres no campo, bloqueio de envios simultâneos e devolução do texto ao campo em caso de erro. Não inclui streaming, anexos, persistência ou atendimento humano.
+=======
+# chatbot-frontend
+>>>>>>> 4575a53c6a52f5eec66d47a5d072940c11856c18
